@@ -1,4 +1,4 @@
-template
+Fork me! 
 ========
 
-btapp.js web app template
+I'm just a helpful way to get started writing your first BitTorrent Web App (btapp)
