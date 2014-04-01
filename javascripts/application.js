@@ -7,8 +7,6 @@ jQuery(function() {
 	btapp.connect();
 
 	btapp.on('add:add', function(add) {
-		//add.torrent('http://featuredcontent.utorrent.com/torrents/CountingCrows-BitTorrent.torrent')
-		//add.torrent('magnet:?xt=urn:btih:2110C7B4FA045F62D33DD0E01DD6F5BC15902179&dn=CountingCrows-BitTorrent&tr=udp://tracker.openbittorrent.com:80/announce')
 		notice('ready to add torrents');
 	});
 
