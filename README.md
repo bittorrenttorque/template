@@ -5,8 +5,7 @@ I'm just a helpful way to get started writing your first bitTorrent web app usin
 
     git clone git://github.com/joaomlneto/btapp-template.git
     cd template
-    git submodule init
-    git submodule update
+    git submodule update --init
 
 #License
 Copyright 2012 Patrick Williams, BitTorrent Inc.  
