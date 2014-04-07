@@ -19,3 +19,6 @@
 [submodule "javascripts/JSON-js"]
 	path = javascripts/JSON-js
 	url = https://github.com/douglascrockford/JSON-js.git
+[submodule "javascripts/humane-js"]
+	path = javascripts/humane-js
+	url = https://github.com/wavded/humane-js.git
