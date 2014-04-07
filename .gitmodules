@@ -10,3 +10,6 @@
 [submodule "javascripts/underscore"]
 	path = javascripts/underscore
 	url = https://github.com/jashkenas/underscore.git
+[submodule "javascripts/jquery"]
+	path = javascripts/jquery
+	url = https://github.com/jquery/jquery.git
