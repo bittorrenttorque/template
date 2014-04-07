@@ -7,3 +7,6 @@
 [submodule "javascripts/backbrace"]
 	path = javascripts/backbrace
 	url = git://github.com/bittorrenttorque/backbrace.git
+[submodule "javascripts/underscore"]
+	path = javascripts/underscore
+	url = https://github.com/jashkenas/underscore.git
