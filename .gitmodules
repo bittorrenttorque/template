@@ -13,3 +13,6 @@
 [submodule "javascripts/jquery"]
 	path = javascripts/jquery
 	url = https://github.com/jquery/jquery.git
+[submodule "javascripts/backbone"]
+	path = javascripts/backbone
+	url = https://github.com/jashkenas/backbone.git
