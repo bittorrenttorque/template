@@ -7,3 +7,18 @@
 [submodule "javascripts/backbrace"]
 	path = javascripts/backbrace
 	url = git://github.com/bittorrenttorque/backbrace.git
+[submodule "javascripts/underscore"]
+	path = javascripts/underscore
+	url = git://github.com/jashkenas/underscore.git
+[submodule "javascripts/jquery"]
+	path = javascripts/jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "javascripts/backbone"]
+	path = javascripts/backbone
+	url = git://github.com/jashkenas/backbone.git
+[submodule "javascripts/JSON-js"]
+	path = javascripts/JSON-js
+	url = git://github.com/douglascrockford/JSON-js.git
+[submodule "javascripts/humane-js"]
+	path = javascripts/humane-js
+	url = git://github.com/wavded/humane-js.git
