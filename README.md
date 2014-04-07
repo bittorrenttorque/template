@@ -4,7 +4,7 @@ Fork me!
 I'm just a helpful way to get started writing your first bitTorrent web app using [btapp.js](https://github.com/bittorrenttorque/btapp)
 
     git clone git://github.com/bittorrenttorque/template.git
-    cd btapp-template
+    cd template
     git submodule update --init --recursive
 
 #License
